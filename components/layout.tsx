@@ -11,7 +11,7 @@ const Layout = ({ preview, children }: Props) => {
   return (
     <>
       <Meta />
-      <div className='flex flex-col max-w-screen-2xl mx-auto min-h-screen justify-between'>
+      <div className='shadow-layout flex flex-col max-w-screen-2xl mx-auto min-h-screen justify-between'>
         {/* <div className="min-h-full flex flex-col"> */}
         <MainHeader />
         <main className='content-start'>{children}</main>
