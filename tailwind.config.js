@@ -50,6 +50,12 @@ module.exports = {
       screens: {
         'desk': '1440px'
       },
+      maxHeight: {
+        '47': '180px',
+      },
+      minHeight: {
+        '47': '180px',
+      }
     },
   },
   plugins: [

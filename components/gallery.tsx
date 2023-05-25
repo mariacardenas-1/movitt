@@ -11,7 +11,7 @@ export default function Gallery ({imagenes}) {
         <div onClick={() => setOpen(true)} className="flex flex-wrap justify-center max-w-3xl gap-5 mx-auto">
            {imagenes.map((img, i) => (
             <div className="lg:w-60 hover:cursor-pointer desk:w-80 w-80">
-                <Image onClick={() => setIndex(i)} className='rounded' src={img} alt='...'/> 
+                <Image onClick={() => setIndex(i)} className='rounded min-h-47 max-h-47 object-cover ' src={img} alt='...'/> 
             </div>
            ))}
            <Lightbox
