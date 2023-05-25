@@ -16,7 +16,8 @@ module.exports = {
         cblue: '#34afe6',
         gris: '#e9e9e9',
         movittBlue: '#32436e',
-        movittgray: '#51596a26'
+        movittgray: '#51596a26',
+        movittYellow: '#b98200'
         // movittBlue: '#182444',
       },
       spacing: {

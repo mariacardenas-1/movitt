@@ -3,8 +3,8 @@ export const theme = {
         root: {
             base: 'divide-y divide-gray-200 border-gray-200 dark:divide-gray-700 dark:border-gray-700',
             flush: {
-                off: 'rounded-lg border',
-                on: 'border-b',
+                off: 'rounded-lg border ',
+                on: 'border-b ',
             },
         },
         content: {
@@ -18,15 +18,15 @@ export const theme = {
                     on: 'rotate-180',
                 },
             },
-            base: 'flex w-full items-center justify-between first:rounded-t-lg last:rounded-b-lg py-5 px-5 text-left font-medium text-gray-500 dark:text-gray-400',
+            base: 'flex w-full items-center justify-between first:rounded-t-lg last:rounded-b-lg py-5 px-5 text-left font-medium  dark:text-gray-400',
             flush: {
                 off: 'hover:bg-gray-100 focus:ring-4 focus:ring-gray-200 dark:hover:bg-gray-800 dark:focus:ring-gray-800',
                 on: '!bg-transparent dark:!bg-transparent',
             },
             heading: '',
             open: {
-                off: '',
-                on: 'text-gray-900 bg-gray-100 dark:bg-gray-800 dark:text-white',
+                off: 'text-movittBlue',
+                on: 'text-movittYellow bg-gray-100 dark:bg-gray-800 dark:text-white',
             },
         },
     },

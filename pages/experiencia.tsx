@@ -1,82 +1,59 @@
 import Layout from "../components/layout"
-import { Accordion } from "flowbite-react"
+import {  Flowbite, Accordion } from "flowbite-react"
+import TextSection from "../components/textSection"
+import { theme } from '../components/customTheme'
+import Gallery from "../components/gallery"
+import transito from '../public/assets/slider-home/Fluvial.jpg'
+import transporte from '../public/assets/slider-home/transporte.jpg'
+import otra from '../public/assets/slider-home/Urbano.jpg'
+
 
 export default function Experiencia () {
+    const imaGenes = [transito, transporte, otra, transito, transporte, otra]
     return (
         <Layout>
-            <div className="my-12 mx-12 bg-neutral-50 rounded-lg md:mx-24">
+            <TextSection tittle={'Experiencia'} text={' '} />
+            <div className=" desk:px-36 lg:px-24 md:px-14 px-19 mx-12 pb-7 mb-10 bg-neutral-50 rounded-lg md:mx-36">
+            <Flowbite  theme={{ theme }}>
                 <Accordion flush={true}>
                     <Accordion.Panel>
                         <Accordion.Title>
-                        Diseño e implementación de señalización vial
+                            Diseño e implementación de señalización vial
                         </Accordion.Title>
                         <Accordion.Content>
-                        <p className="mb-2 text-gray-500 dark:text-gray-400">
-                            Flowbite is an open-source library of interactive components built on top of Tailwind CSS including buttons, dropdowns, modals, navbars, and more.
-                        </p>
-                        <p className="text-gray-500 dark:text-gray-400">
-                            Check out this guide to learn how to
-                            <a
-                            href="https://flowbite.com/docs/getting-started/introduction/"
-                            className="text-blue-600 hover:underline dark:text-blue-500"
-                            >
-                            get started
-                            </a>
-                            and start developing websites even faster with components on top of Tailwind CSS.
-                        </p>
+                            <Gallery imagenes={imaGenes}/>
                         </Accordion.Content>
                     </Accordion.Panel>
                     <Accordion.Panel>
                         <Accordion.Title>
-                        Campañas de seguridad vial
+                            Campañas de seguridad vial
                         </Accordion.Title>
                         <Accordion.Content>
-                        <p className="mb-2 text-gray-500 dark:text-gray-400">
-                            Flowbite is first conceptualized and designed using the Figma software so everything you see in the library has a design equivalent in our Figma file.
-                        </p>
-                        <p className="text-gray-500 dark:text-gray-400">
-                            Check out the 
-                            <a
-                            href="https://flowbite.com/figma/"
-                            className="text-blue-600 hover:underline dark:text-blue-500"
-                            >
-                            Figma design system
-                            </a>
-                            based on the utility classes from Tailwind CSS and components from Flowbite.
-                        </p>
+                            <Gallery imagenes={imaGenes}/>  
                         </Accordion.Content>
                     </Accordion.Panel>
                     <Accordion.Panel>
                         <Accordion.Title>
-                        Estudios de tránsito
+                            Estudios de tránsito
                         </Accordion.Title>
                         <Accordion.Content>
-                        <p className="mb-2 text-gray-500 dark:text-gray-400">
-                            The main difference is that the core components from Flowbite are open source under the MIT license, whereas Tailwind UI is a paid product. Another difference is that Flowbite relies on smaller and standalone components, whereas Tailwind UI offers sections of pages.
-                        </p>
-                        
+                            <Gallery imagenes={imaGenes}/>
                         </Accordion.Content>
                     </Accordion.Panel>
                     <Accordion.Panel>
                         <Accordion.Title>
-                        Planes de Manejo de Tránsito - PMT
+                            Planes de Manejo de Tránsito - PMT
                         </Accordion.Title>
-                        <Accordion.Content>
-                        <p className="mb-2 text-gray-500 dark:text-gray-400">
-                            The main difference is that the core components from Flowbite are open source under the MIT license, whereas Tailwind UI is a paid product. Another difference is that Flowbite relies on smaller and standalone components, whereas Tailwind UI offers sections of pages.
-                        </p>
-                        
+                        <Accordion.Content>                        
+                            <Gallery imagenes={imaGenes}/>
                         </Accordion.Content>
                     </Accordion.Panel>
                     <Accordion.Panel>
                         <Accordion.Title>
-                        Diseño geométrico y de pavimentos
+                            Diseño geométrico y de pavimentos
                         </Accordion.Title>
-                        <Accordion.Content>
-                        <p className="mb-2 text-gray-500 dark:text-gray-400">
-                            The main difference is that the core components from Flowbite are open source under the MIT license, whereas Tailwind UI is a paid product. Another difference is that Flowbite relies on smaller and standalone components, whereas Tailwind UI offers sections of pages.
-                        </p>
-                        
+                        <Accordion.Content>                        
+                            <Gallery imagenes={imaGenes}/>
                         </Accordion.Content>
                     </Accordion.Panel>
                     <Accordion.Panel>
@@ -84,10 +61,7 @@ export default function Experiencia () {
                         Fotogrametría con Dron
                         </Accordion.Title>
                         <Accordion.Content>
-                        <p className="mb-2 text-gray-500 dark:text-gray-400">
-                            The main difference is that the core components from Flowbite are open source under the MIT license, whereas Tailwind UI is a paid product. Another difference is that Flowbite relies on smaller and standalone components, whereas Tailwind UI offers sections of pages.
-                        </p>
-                        
+                            <Gallery imagenes={imaGenes}/>
                         </Accordion.Content>
                     </Accordion.Panel>
                     <Accordion.Panel>
@@ -95,13 +69,12 @@ export default function Experiencia () {
                         Modelación con software especializado
                         </Accordion.Title>
                         <Accordion.Content>
-                        <p className="mb-2 text-gray-500 dark:text-gray-400">
-                            The main difference is that the core components from Flowbite are open source under the MIT license, whereas Tailwind UI is a paid product. Another difference is that Flowbite relies on smaller and standalone components, whereas Tailwind UI offers sections of pages.
-                        </p>
-                        
+                            <Gallery imagenes={imaGenes}/>
                         </Accordion.Content>
                     </Accordion.Panel>
                 </Accordion>
+            </Flowbite>
+                
             </div>
            
         </Layout>
