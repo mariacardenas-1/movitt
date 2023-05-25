@@ -16,6 +16,7 @@ module.exports = {
         cblue: '#34afe6',
         gris: '#e9e9e9',
         movittBlue: '#32436e',
+        movittgray: '#51596a26'
         // movittBlue: '#182444',
       },
       spacing: {
@@ -42,9 +43,12 @@ module.exports = {
         mobileMenu: 'calc(100vh - 100px);',
         deskSlider: '30rem',
       },
+      margin: {
+        menos3: '-50px'
+      },
       screens: {
         'desk': '1440px'
-      }
+      },
     },
   },
   plugins: [
