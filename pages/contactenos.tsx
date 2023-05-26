@@ -3,10 +3,10 @@ import TextSection from "../components/textSection"
 import Image from "next/image"
 import LinkSection from "../components/linkSection"
 import Link from "next/link"
-import map from '../public/assets/map.png'
+import map from '../public/assets/mapa.png'
 
 export default function Contactenos () {
-    
+
     return (
         <Layout>
             <div className="bg-movittBlue md:mb-10 h-full text-white md:bg-white md:text-black">
