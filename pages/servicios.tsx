@@ -1,7 +1,5 @@
 import Layout from "../components/layout"
-import { CustomFlowbiteTheme, Flowbite, Tabs } from 'flowbite-react'
-import prueba from '../public/assets/pruebaIcon.svg'
-import { MdDashboard } from 'react-icons/md';
+import { Flowbite, Tabs } from 'flowbite-react'
 import BusIcon from "../icons/busIcon";
 import transporte1 from '../public/assets/slider-home/transporte1.jpg'
 import transito1 from '../public/assets/slider-home/transito1.jpg'
