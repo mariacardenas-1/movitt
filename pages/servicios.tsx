@@ -30,7 +30,7 @@ export default function Servicios () {
                                 icon={BusIcon}
                             >
                                 <p className="text-justify pb-10 ">
-                                    El transporte es una de las actividades cotidianas imprescindibles para la sociedad por tanto para Movitt constituye un eje fundamental de trabajo interdisciplinario desde la psicología, para entender el comportamiento humano, hasta la ingeniería con sus métodos analíticos, pasando por la geografía, la economía y el urbanismo. Esta variedad de enfoques junto con la relevancia en términos de calidad de vida, justifican el interés de Movitt por asumir el desafío intelectual y laboral de esta disciplina.
+                                    El transporte es una de las actividades cotidianas imprescindibles para la sociedad por tanto para <b>MOVITT</b> constituye un eje fundamental de trabajo interdisciplinario desde la psicología, para entender el comportamiento humano, hasta la ingeniería con sus métodos analíticos, pasando por la geografía, la economía y el urbanismo. Esta variedad de enfoques junto con la relevancia en términos de calidad de vida, justifican el interés de <b>MOVITT</b> por asumir el desafío intelectual y laboral de esta disciplina.
 
                                 </p>
                                 <Image src={transporte1} alt="trasnporte" className="h-28 rounded lg:h-80 " />
@@ -49,7 +49,7 @@ export default function Servicios () {
                                 icon={TransitoIcon}
                             >
                                 <p className="text-justify pb-10 ">
-                                    Como disciplina derivada de la ingeniería de transporte, Movitt brinda asesoría y consultoría en tránsito, seguridad vial y movilidad sostenible, solucionando los impactos generados, teniendo como premisa garantizar las mejores condiciones de operación.
+                                Como disciplina derivada de la ingeniería de transporte, <b>MOVITT</b> brinda asesoría y consultoría en tránsito, seguridad vial y movilidad sostenible, solucionando los impactos generados por el crecimiento del parque automotor, teniendo como premisa garantizar las mejores condiciones de operación.
                                     
                                 </p>
                                 <Image src={transito1} alt="tránsito" className="h-28 rounded lg:h-80" />
@@ -72,7 +72,7 @@ export default function Servicios () {
                                 icon={InfraestructuraIcon}
                             >
                                 <p className="text-justify pb-10 ">
-                                    El desarrollo territorial y económico de nuestro país va de la mano con la construcción y mantenimiento de infraestructura, por tanto Movitt centra su desempeño en la prestación de servicios de consultoría, diseños, gerencia de proyectos e interventoría de obras de infraestructura tanto vial como férrea.
+                                    El desarrollo territorial y económico de nuestro país va de la mano con la construcción y mantenimiento de infraestructura, por tanto <b>MOVITT</b> centra su desempeño en la prestación de servicios de consultoría, diseños, gerencia de proyectos e interventoría de obras de infraestructura tanto vial como férrea.
                                 </p>
                                 <Image src={infraestructura1} alt="infraestructura" className="h-28 rounded lg:h-80"  
                                 />
