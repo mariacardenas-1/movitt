@@ -4,9 +4,10 @@ export default function TextSection ({tittle, text}) {
             <div className="text-3xl pb-5 mb-5 border-b-2 border-b-neutral-200">
                 {tittle}
             </div>
-            <p className="text-justify font-normal text-neutral-700">
-                {text}
-            </p>
+            <div className="text-justify font-normal text-neutral-700" dangerouslySetInnerHTML={{__html: text}}>
+                
+            </div>
         </div>
+
     )
 }

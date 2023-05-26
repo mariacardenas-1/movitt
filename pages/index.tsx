@@ -18,7 +18,7 @@ type Props = {
 export default function Index({ allPosts }: Props) {
   const heroPost = allPosts[0]
   const morePosts = allPosts.slice(1)
-  const NosotrosText = 'Somos una empresa dedicada a la aplicación de la ciencia, técnica y en general el ingenio, en beneficio de la sociedad. Como rama especifica Movitt desempeña sus labores en procesos de consultoría de modos de transporte y su infraestructura, entendidos como el conjunto de elementos que interactúan entre sí y con el entorno, para permitir un movimiento eficiente y seguro de personas y bienes. Nuestro sello de innovación corresponde a la gestión ante las entidades encargadas y responsables del ordenamiento del territorio y a la utilización de sistemas de información geográfica SIG para que nuestros clientes realicen consultas interactivas de datos espaciales que permitan tomar las mejores decisiones.'
+  const NosotrosText = 'Somos una empresa dedicada a la aplicación de la ciencia, técnica y en general el ingenio, en beneficio de la sociedad. Como rama especifica <b> MOVITT </b> desempeña sus labores en procesos de consultoría de modos de transporte y su infraestructura, entendidos como el conjunto de elementos que interactúan entre sí y con el entorno, para permitir un movimiento eficiente y seguro de personas y bienes. Nuestro sello de innovación corresponde a la gestión ante las entidades encargadas y responsables del ordenamiento del territorio y a la utilización de sistemas de información geográfica SIG para que nuestros clientes realicen consultas interactivas de datos espaciales que permitan tomar las mejores decisiones.'
   return (
     <>
       <Layout>

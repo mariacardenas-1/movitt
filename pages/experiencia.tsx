@@ -18,7 +18,6 @@ import pmt1 from '../public/assets/imagesExperince/pmt1.png'
 import pmt2 from '../public/assets/imagesExperince/pmt2.png'
 import pmt3 from '../public/assets/imagesExperince/pmt3.jpg'
 import pmt4 from '../public/assets/imagesExperince/pmt4.jpg'
-import zima from '../public/assets/imagesExperince/zima.png'
 import dg from '../public/assets/imagesExperince/DG.png'
 import fotogrametria1 from '../public/assets/imagesExperince/fotogrametria1.jpg'
 import fotogrametria2 from '../public/assets/imagesExperince/fotogrametria2.jpg'
@@ -31,7 +30,7 @@ export default function Experiencia () {
         2: [seguridad, seguridad2 ],
         3: [picasso, choachi, bosa, bogota ],
         4: [pmt1, pmt2, pmt3, pmt4 ],
-        5: [zima, dg, ],
+        5: [dg ],
         6: [fotogrametria1, fotogrametria2],
         7: [redMod, tres ],
     }
@@ -91,7 +90,7 @@ export default function Experiencia () {
                         </Accordion.Panel>
                         <Accordion.Panel>
                             <Accordion.Title>
-                            Modelación con software especializado
+                            Modelación con software especializado (vissim)
                             </Accordion.Title>
                             <Accordion.Content>
                                 <Gallery imagenes={imagenes[7]}/>

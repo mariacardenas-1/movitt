@@ -50,6 +50,7 @@ export default function Servicios () {
                             >
                                 <p className="text-justify pb-10 ">
                                     Como disciplina derivada de la ingeniería de transporte, Movitt brinda asesoría y consultoría en tránsito, seguridad vial y movilidad sostenible, solucionando los impactos generados, teniendo como premisa garantizar las mejores condiciones de operación.
+                                    
                                 </p>
                                 <Image src={transito1} alt="tránsito" className="h-28 rounded lg:h-80" />
                                 <div className="p-8">
@@ -81,6 +82,9 @@ export default function Servicios () {
                                         <li className='list-disc'>Diseño de Pavimentos.</li>
                                         <li className='list-disc'>Sistema de gestión de pavimentos urbanos.</li>
                                         <li className='list-disc'>Estudios de Geotecnia.</li>
+                                        <li className='list-disc'>Suministro e instalación de señales verticales.</li>
+                                        <li className='list-disc'>Demarcación vial.</li>
+                                        <li className='list-disc'>Suministro e instalación de semáforos</li>
                                         
                                     </ul>
                                 </div>
