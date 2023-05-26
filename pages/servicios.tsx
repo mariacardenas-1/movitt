@@ -17,8 +17,8 @@ export default function Servicios () {
     return (
         <Layout>
             <TextSection tittle={'Servicios'} text={''} />
-            <div className="w-72 md:w-full mx-auto md:px-24">
-                <div className=" desk:px-40 lg:px-28 md:px-16 px-10">
+            <div className="w-72 md:w-full mx-auto md:px-4">
+                <div className=" desk:px-40 lg:px-28 md:px-16">
                     <Flowbite  theme={{ theme }}>
                         <Tabs.Group
                             aria-label="Tabs with icons"
