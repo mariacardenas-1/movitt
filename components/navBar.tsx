@@ -21,6 +21,10 @@ const NavBar = () => {
             name: 'Nuestro Equipo'
         },
         {
+            slug: 'opinion',
+            name: 'Opinión'
+        },
+        {
             slug: 'contactenos',
             name: 'Contáctenos'
         },

@@ -28,9 +28,9 @@ const PostPreview = ({
       </div>
       <h3 className="text-3xl mb-3 leading-snug">
         <Link
-          as={`/posts/${slug}`}
-          href="/posts/[slug]"
-          className="hover:underline"
+          as={`/opinion/${slug}`}
+          href="/opinion/[slug]"
+          className="hover:underline text-movittBlue"
         >
           {title}
         </Link>
@@ -39,7 +39,7 @@ const PostPreview = ({
         <DateFormatter dateString={date} />
       </div>
       <p className="text-lg leading-relaxed mb-4">{excerpt}</p>
-      <Avatar name={author.name} picture={author.picture} />
+      <Avatar name={author.name} />
     </div>
   )
 }

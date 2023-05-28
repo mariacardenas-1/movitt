@@ -30,9 +30,9 @@ const HeroPost = ({
         <div>
           <h3 className="mb-4 text-4xl lg:text-5xl leading-tight">
             <Link
-              as={`/posts/${slug}`}
-              href="/posts/[slug]"
-              className="hover:underline"
+              as={`/opinion/${slug}`}
+              href="/opinion/[slug]"
+              className="hover:underline text-movittBlue"
             >
               {title}
             </Link>
@@ -43,7 +43,7 @@ const HeroPost = ({
         </div>
         <div>
           <p className="text-lg leading-relaxed mb-4">{excerpt}</p>
-          <Avatar name={author.name} picture={author.picture} />
+          <Avatar name={author.name}  />
         </div>
       </div>
     </section>

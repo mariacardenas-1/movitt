@@ -11,7 +11,7 @@ const Footer = () => {
         <Link target='_blank' href='https://www.linkedin.com/in/movitt-sas-81137a171/' >
           <Image src={linkedIn} alt='linkedIn' className='w-7 pb-3 md:pb-0 ' />
         </Link>
-        <Link target='_blank' href=' https://instagram.com/' >
+        <Link target='_blank' href=' https://www.instagram.com/' >
           <Image src={instagramIcon} alt='instagram' className='w-7 pb-3 md:pb-0 ' />
         </Link>
       </div>
