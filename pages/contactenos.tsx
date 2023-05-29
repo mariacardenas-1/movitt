@@ -15,7 +15,7 @@ export default function Contactenos () {
         <div className="bg-movittBlue md:mx-16 lg:mx-28 lg:p-5 rounded-lg flex flex-col lg:flex-row">
             <div className="text-white lg:w-3/5 md:text-lg py-0 md:pt-16 lg:pt-8 p-8 lg:p-10 md:p-16">
                 <p className="font-bold pb-5 md:pb-4 text-yellow-300 md:text-center text-3xl">
-                   MOVITT
+                   MOVITT SAS
                 </p>
                 <p className="md:font-bold md:text-xl">
                     Póngase en contacto con nosotros a través de los siguientes medios:
