@@ -34,7 +34,7 @@ const Meta = () => {
       <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
       <meta
         name="description"
-        content={`A statically generated blog example using Next.js and ${CMS_NAME}.`}
+        content='Movitt es una empresa que utiliza la ciencia, la técnica y el ingenio para brindar consultoría en transporte y su infraestructura, enfocándose en lograr un movimiento eficiente y seguro de personas y bienes, a través de la innovación en la gestión territorial y el uso de sistemas de información geográfica.'
       />
       <meta property="og:image" content={HOME_OG_IMAGE_URL} />
     </Head>
