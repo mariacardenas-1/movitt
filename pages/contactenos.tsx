@@ -22,6 +22,7 @@ export default function Contactenos () {
                 </p>
                 <div className="p-2 md:p-5">
                     <LinkSection text='Habla con nuestro equipo ' src="tel:%20+573003197386%20" linkText="300 319 7386"/>
+                    <LinkSection text='Escribenos por WhatsApp: ' src="https://wa.link/o3s2ib" linkText="3132974878"/>
                     <LinkSection text='Envianos un correo: ' src="mailto:movittingenieria@gmail.com" linkText="movittingenieria@gmail.com"/>
                     <p className="font-semibold text-yellow-300">
                         Visitanos en:
