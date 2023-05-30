@@ -3,7 +3,6 @@ import DateFormatter from './date-formatter'
 import CoverImage from './cover-image'
 import PostTitle from './post-title'
 import type Author from '../interfaces/author'
-import user from '../public/assets/usuario.png'
 
 type Props = {
   title: string

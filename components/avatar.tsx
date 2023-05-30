@@ -1,8 +1,6 @@
-// import user from '../public/assets/usuario.png'
 
 type Props = {
   name: string
-  // picture: any 
 }
 
 const Avatar = ({ name }: Props) => {

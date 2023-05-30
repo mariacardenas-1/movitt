@@ -1,7 +1,3 @@
-import Container from '../components/container'
-import MoreStories from '../components/more-stories'
-import HeroPost from '../components/hero-post'
-import Intro from '../components/intro'
 import Layout from '../components/layout'
 import { getAllPosts } from '../lib/api'
 import BarraContacto from '../components/barra-contacto'
@@ -26,7 +22,7 @@ export default function Index({ allPosts }: Props) {
     <>
       <Layout>
         <Head>
-          <title>Movitt SAS - Transporte y vias</title>
+          <title>Movitt SAS | Transporte y vias</title>
           <meta property="og:image" content={HOME_OG_IMAGE_URL} />
         </Head>
         <Carrousel />
