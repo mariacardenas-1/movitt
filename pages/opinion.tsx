@@ -7,6 +7,7 @@ import { getAllPosts } from '../lib/api'
 import Head from 'next/head'
 import Post from '../interfaces/post'
 import WhatsappLink from '../components/whatsappLink'
+import { HOME_OG_IMAGE_URL } from '../lib/constants'
 
 type Props = {
   allPosts: Post[]
@@ -20,7 +21,8 @@ export default function Index({ allPosts }: Props) {
     <>
       <Layout>
         <Head>
-          <title>{`Movitt- Blog de Opinión`}</title>
+          <title>{`Movitt SAS | Blog de Opinión`}</title>
+          <meta property="og:image" content={HOME_OG_IMAGE_URL} />
         </Head>
         <Container>
           <Intro />

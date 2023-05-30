@@ -5,11 +5,17 @@ import LinkSection from "../components/linkSection"
 import Link from "next/link"
 import map from '../public/assets/mapa.png'
 import WhatsappLink from "../components/whatsappLink"
+import { HOME_OG_IMAGE_URL } from '../lib/constants'
+import Head from 'next/head'
 
 export default function Contactenos () {
 
     return (
         <Layout>
+            <Head>
+                <title>Movitt SAS | Contacte a nuestro equipo</title>
+                <meta property="og:image" content={HOME_OG_IMAGE_URL} />
+            </Head>
             <div className="bg-movittBlue md:mb-10 h-full text-white md:bg-white md:text-black">
                 <TextSection tittle={'Contáctenos'} text={''}/>
             

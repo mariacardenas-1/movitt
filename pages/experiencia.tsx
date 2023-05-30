@@ -24,6 +24,8 @@ import fotogrametria2 from '../public/assets/imagesExperince/fotogrametria2.jpg'
 import redMod from '../public/assets/imagesExperince/Red-Mod.png'
 import tres from '../public/assets/imagesExperince/3D.png'
 import WhatsappLink from "../components/whatsappLink"
+import { HOME_OG_IMAGE_URL } from '../lib/constants'
+import Head from 'next/head'
 
 export default function Experiencia () {
     const imagenes = {
@@ -37,6 +39,10 @@ export default function Experiencia () {
     }
     return (
         <Layout>
+            <Head>
+                <title>Movitt SAS | Experiencia en diseño, estudio y planes de manejo de transito </title>
+                <meta property="og:image" content={HOME_OG_IMAGE_URL} />
+            </Head>
             <TextSection tittle={'Experiencia'} text={' '} />
             <div className=" desk:px-36 lg:px-24 md:px-14 px-19 mx-12 pb-7 mb-10 bg-neutral-50 rounded-lg md:mx-36">
                 <Flowbite  theme={{ theme }}>

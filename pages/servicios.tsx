@@ -10,12 +10,18 @@ import Image from "next/image";
 import { theme } from '../components/customTheme'
 import TextSection from "../components/textSection";
 import WhatsappLink from "../components/whatsappLink";
+import { HOME_OG_IMAGE_URL } from '../lib/constants'
+import Head from 'next/head'
 
 
 export default function Servicios () {
   
     return (
         <Layout>
+            <Head>
+                <title>Movitt SAS | Asesoría y consultoría en tránsito y seguridad vial</title>
+                <meta property="og:image" content={HOME_OG_IMAGE_URL} />
+            </Head>
             <TextSection tittle={'Servicios'} text={''} />
             <div className="w-72 md:w-full mx-auto md:px-4">
                 <div className=" desk:px-40 lg:px-28 md:px-16">

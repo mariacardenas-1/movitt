@@ -7,10 +7,12 @@ import { getAllPosts } from '../lib/api'
 import BarraContacto from '../components/barra-contacto'
 import Carrousel from '../components/carrousel'
 import Head from 'next/head'
-import { CMS_NAME } from '../lib/constants'
+import { HOME_OG_IMAGE_URL } from '../lib/constants'
 import Post from '../interfaces/post'
 import TextSection from '../components/textSection'
 import WhatsappLink from '../components/whatsappLink'
+  
+
 
 type Props = {
   allPosts: Post[]
@@ -24,7 +26,8 @@ export default function Index({ allPosts }: Props) {
     <>
       <Layout>
         <Head>
-          <title>Movitt - Transporte y vias</title>
+          <title>Movitt SAS - Transporte y vias</title>
+          <meta property="og:image" content={HOME_OG_IMAGE_URL} />
         </Head>
         <Carrousel />
         <BarraContacto />
