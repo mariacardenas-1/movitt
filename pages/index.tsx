@@ -10,6 +10,7 @@ import Head from 'next/head'
 import { CMS_NAME } from '../lib/constants'
 import Post from '../interfaces/post'
 import TextSection from '../components/textSection'
+import WhatsappLink from '../components/whatsappLink'
 
 type Props = {
   allPosts: Post[]
@@ -30,6 +31,7 @@ export default function Index({ allPosts }: Props) {
         <TextSection
           tittle={'Nosotros'}
           text={NosotrosText} />
+        <WhatsappLink />
       </Layout>
     </>
   )
