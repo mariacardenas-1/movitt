@@ -1,6 +1,7 @@
 import Layout from "../components/layout"
 import TextSection from "../components/textSection"
 import TableValue from "../components/tableValues"
+import WhatsappLink from "../components/whatsappLink"
 
 export default function NuestroEquipo () {
     return (
@@ -11,6 +12,7 @@ export default function NuestroEquipo () {
             <div className="pb-10">
                 <TableValue />
             </div>
+            <WhatsappLink />
         </Layout>
     )
 }

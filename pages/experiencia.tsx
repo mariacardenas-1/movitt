@@ -23,6 +23,7 @@ import fotogrametria1 from '../public/assets/imagesExperince/fotogrametria1.jpg'
 import fotogrametria2 from '../public/assets/imagesExperince/fotogrametria2.jpg'
 import redMod from '../public/assets/imagesExperince/Red-Mod.png'
 import tres from '../public/assets/imagesExperince/3D.png'
+import WhatsappLink from "../components/whatsappLink"
 
 export default function Experiencia () {
     const imagenes = {
@@ -98,6 +99,7 @@ export default function Experiencia () {
                         </Accordion.Panel>
                     </Accordion>
                 </Flowbite>
+                <WhatsappLink />
             </div>
         </Layout>
     )

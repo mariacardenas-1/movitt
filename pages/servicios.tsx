@@ -9,6 +9,8 @@ import InfraestructuraIcon from "../icons/infraestructuraIcon";
 import Image from "next/image";
 import { theme } from '../components/customTheme'
 import TextSection from "../components/textSection";
+import WhatsappLink from "../components/whatsappLink";
+
 
 export default function Servicios () {
   
@@ -91,6 +93,7 @@ export default function Servicios () {
                     </Flowbite>
                 </div>
             </div>
+            <WhatsappLink />
         </Layout>
     )
 }

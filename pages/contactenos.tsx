@@ -4,6 +4,7 @@ import Image from "next/image"
 import LinkSection from "../components/linkSection"
 import Link from "next/link"
 import map from '../public/assets/mapa.png'
+import WhatsappLink from "../components/whatsappLink"
 
 export default function Contactenos () {
 
@@ -37,6 +38,7 @@ export default function Contactenos () {
                 </Link>
             </div>
         </div>
+        <WhatsappLink />
         </div>
         </Layout>
     )
