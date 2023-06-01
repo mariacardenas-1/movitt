@@ -19,7 +19,7 @@ export default function Servicios () {
     return (
         <Layout>
             <Head>
-                <title>Movitt SAS | Asesoría y consultoría en tránsito y seguridad vial</title>
+                <title>Movitt SAS | Estudios de oferta y demanda. Modelización de sistemas de transporte (macro-simulación). Formulación de planes maestros de movilidad.</title>
                 <meta property="og:image" content={HOME_OG_IMAGE_URL} />
             </Head>
             <TextSection tittle={'Servicios'} text={''} />

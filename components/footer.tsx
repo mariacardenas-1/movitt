@@ -6,7 +6,7 @@ import Link from 'next/link'
 const Footer = () => {
   const date = new Date().getFullYear()
   return (
-    <footer className="bg-zinc-900 h-24 text-white px-5 md:px-40 items-start md:items-center lg:py-8 py-14 justify-center md:justify-between flex flex-col md:flex-row ">
+    <footer className="bg-zinc-900 h-24 text-white px-5 md:px-40 lg:py-8 py-14 justify-center md:justify-between flex flex-col md:flex-row text text-center items-center md:text-center lg:text-start md:items-start">
       <div className='flex gap-3'>
         <Link target='_blank' href='https://www.linkedin.com/in/movitt-sas-81137a171/' >
           <Image src={linkedIn} alt='linkedIn' className='w-7 pb-3 md:pb-0 ' />
@@ -19,7 +19,7 @@ const Footer = () => {
       Movitt {date} -
       Desarrollado por:&nbsp;
         <Link target='_blank' href='https://www.linkedin.com/in/maria-fernanda-c%C3%A1rdenas-1-frontend/' className='text-neutral-300 hover:text-neutral-50'>
-          <br/>
+          <br className='md:hidden'/>
           Mafe Cárdenas
         </Link>
       </div>
