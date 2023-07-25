@@ -1,13 +1,13 @@
 ---
-title: '¿Modo o medio de Transporte?'
-excerpt: 'El automóvil no es un modo, sino un medio de transporte terrestre. A lo largo de la historia, el transporte dependió de la naturaleza, como el marítimo, fluvial, férreo, carretero y aéreo. Existen diferentes medios como camión, lancha, bus, globo, etc.'
-coverImage: 'https://images.unsplash.com/photo-1523667071851-4fda8c8a8dd5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80'
+title: 'Modo o medio de Transporte'
+excerpt: '¿El automóvil es un medio o modo de transporte?, para deshilvanar tal inquietud es preciso indicar que en términos históricos antes del siglo XIX el transporte dependía de la naturaleza como forma de locomoción (corriente, viento, gravedad, animales y el mismo ser humano)...'
+coverImage: 'https://images.unsplash.com/photo-1674719645138-c3fd1aaf8307?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80'
 date: '2023-07-25T05:35:07.322Z'
 author:
   name: Ing. Felipe Rios Tiusabá.
   picture: '../public/assets/usuario.png'
 ogImage:
-  url: 'https://images.unsplash.com/photo-1523667071851-4fda8c8a8dd5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80'
+  url: 'https://images.unsplash.com/photo-1674719645138-c3fd1aaf8307?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80'
 ---
 
 ¿El automóvil es un medio o modo de transporte?, para deshilvanar tal inquietud es preciso
