@@ -1,6 +1,6 @@
 ---
 title: 'Alza de la gasolina'
-excerpt: '¿El automóvil es un medio o modo de transporte?, para deshilvanar tal inquietud es preciso indicar que en términos históricos antes del siglo XIX el transporte dependía de la naturaleza como forma de locomoción (corriente, viento, gravedad, animales y el mismo ser humano)...'
+excerpt: 'El costo de la gasolina se ha incrementado en un 42% en lo que ha trascurrido entre julio de 2022 y agosto de 2023, el incremento mensual hace parte de una política de estado que busca dejar de subsidiar el combustible para evitar recortar el presupuesto destinado al gasto social...'
 coverImage: 'https://images.unsplash.com/photo-1637417168775-532c76fa4fa4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1935&q=80'
 date: '2023-08-29T05:35:07.322Z'
 author:
