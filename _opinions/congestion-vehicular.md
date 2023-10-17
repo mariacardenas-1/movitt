@@ -1,5 +1,5 @@
 ---
-title: 'Consgetión Vehicular'
+title: 'Congestión Vehicular'
 excerpt: 'Para solucionar las problemáticas que se dan en la ciudad, es necesario entender las diferentes dinámicas que se dan en ella, así como la complejidad de las personas que la habitan y la relación que tienen entre sí. En Bogotá, uno de los principales motivos de la congestión...'
 coverImage: 'https://images.unsplash.com/photo-1564398353303-bfc351d51db8?auto=format&fit=crop&q=80&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&w=1812'
 date: '2023-10-17T07:35:07.322Z'
