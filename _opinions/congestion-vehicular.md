@@ -4,7 +4,7 @@ excerpt: 'Para solucionar las problemáticas que se dan en la ciudad, es necesar
 coverImage: 'https://images.unsplash.com/photo-1564398353303-bfc351d51db8?auto=format&fit=crop&q=80&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&w=1812'
 date: '2023-10-17T07:35:07.322Z'
 author:
-  name: Ing. Felipe Rios Tiusabá.
+  name: Ing. Diana Alejandra González Gómez.
   picture: '../public/assets/usuario.png'
 ogImage:
   url: 'https://images.unsplash.com/photo-1564398353303-bfc351d51db8?auto=format&fit=crop&q=80&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&w=1812'

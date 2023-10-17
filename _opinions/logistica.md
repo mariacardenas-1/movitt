@@ -4,7 +4,7 @@ excerpt: 'La productividad, en el contexto de la logística se establece como un
 coverImage: 'https://images.unsplash.com/photo-1685119166946-d4050647b0e3?auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDIwfHx8ZW58MHx8fHx8&w=500'
 date: '2023-10-17T06:35:07.322Z'
 author:
-  name: Ing. Felipe Rios Tiusabá.
+  name: Ing. Daniel Fuerte.
   picture: '../public/assets/usuario.png'
 ogImage:
   url: 'https://images.unsplash.com/photo-1685119166946-d4050647b0e3?auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDIwfHx8ZW58MHx8fHx8&w=500'

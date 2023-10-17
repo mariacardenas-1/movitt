@@ -4,7 +4,7 @@ excerpt: 'Lo que normalmente conocemos como urbano puede tener diferentes concep
 coverImage: 'https://images.unsplash.com/photo-1528044085473-73c9d232288d?auto=format&fit=crop&q=80&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&w=1932'
 date: '2023-10-17T05:35:07.322Z'
 author:
-  name: Ing. Felipe Rios Tiusabá.
+  name: Ing. David Felipe Juez.
   picture: '../public/assets/usuario.png'
 ogImage:
   url: 'https://images.unsplash.com/photo-1528044085473-73c9d232288d?auto=format&fit=crop&q=80&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&w=1932'
