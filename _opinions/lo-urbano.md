@@ -2,7 +2,7 @@
 title: 'Lo Urbano'
 excerpt: 'Lo que normalmente conocemos como urbano puede tener diferentes conceptos y definiciones según el contexto desde el que se analicé, sin embargo, como adjetivo, refiere a todo lo que podemos encontrar en una ciudad o relativo a ésta...'
 coverImage: 'https://images.unsplash.com/photo-1528044085473-73c9d232288d?auto=format&fit=crop&q=80&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&w=1932'
-date: '2023-10-17T05:35:07.322Z'
+date: '2023-09-17T05:35:07.322Z'
 author:
   name: Ing. David Felipe Juez.
   picture: '../public/assets/usuario.png'

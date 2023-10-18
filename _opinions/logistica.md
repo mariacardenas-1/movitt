@@ -2,7 +2,7 @@
 title: 'Logística'
 excerpt: 'La productividad, en el contexto de la logística se establece como un componente esencial para el éxito en la era actual. A medida que se descubre la relación entre estos dos términos en el mundo de la globalización, se logra apreciar como la eficiencia en la gestión de cadenas de suministro...'
 coverImage: 'https://images.unsplash.com/photo-1685119166946-d4050647b0e3?auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDIwfHx8ZW58MHx8fHx8&w=500'
-date: '2023-10-17T06:35:07.322Z'
+date: '2023-09-17T06:35:07.322Z'
 author:
   name: Ing. Daniel Fuerte.
   picture: '../public/assets/usuario.png'
