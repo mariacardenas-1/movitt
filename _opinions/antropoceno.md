@@ -1,13 +1,13 @@
 ---
 title: 'Antropoceno'
 excerpt: 'Las ciudades sintetizan de alguna manera el significado de civilización. En términos históricos el hombre paso de ser un ser nómada a un ser citadino,  glomerando en un mismo espacio geográfico la satisfacción de necesidades básicas como: alimento, salud, vestido y hogar. La ciudad fue...'
-coverImage: 'https://plus.unsplash.com/premium_photo-1712349034148-027721a55173?q=80&w=2057&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+coverImage: 'https://images.unsplash.com/photo-1641122889427-6d7c4480e0a0?q=80&w=2156&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
 date: '2024-04-16T05:35:07.322Z'
 author:
   name: Ing. Felipe Rios Tiusabá.
   picture: '../public/assets/usuario.png'
 ogImage:
-  url: 'https://plus.unsplash.com/premium_photo-1712349034148-027721a55173?q=80&w=2057&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+  url: 'https://images.unsplash.com/photo-1641122889427-6d7c4480e0a0?q=80&w=2156&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
 ---
 
 Las ciudades sintetizan de alguna manera el significado de civilización. En términos históricos el hombre paso de ser un ser nómada a un ser citadino, aglomerando en un mismo espacio geográfico la satisfacción de necesidades básicas como: alimento, salud, vestido y hogar. La ciudad fue surgiendo a la par de algunas invenciones como la escritura, la agricultura, la metalurgia, la minería, el comercio entre otras. Pero sin duda el apogeo de las ciudades se da desde los griegos con la

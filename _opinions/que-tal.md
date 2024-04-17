@@ -2,13 +2,13 @@
 title: '¿Qué tal?'
 excerpt: 'Los actuales tiempos presentan una sobrecarga informativa que se aglutina en las redes sociales y en el WhatsApp, ahora vivimos en medio de una epidemia de datos, noticias falsas y supuestos influenciadores que incendian las redes sociales con información que no confirman o con
 suposiciones....'
-coverImage: 'https://plus.unsplash.com/premium_photo-1683936163516-ec4c53227e26?q=80&w=1984&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+coverImage: 'https://images.unsplash.com/photo-1633354931133-27ac1ee5d853?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
 date: '2024-04-15T05:35:07.322Z'
 author:
   name: Ing. Felipe Rios Tiusabá.
   picture: '../public/assets/usuario.png'
 ogImage:
-  url: 'https://plus.unsplash.com/premium_photo-1683936163516-ec4c53227e26?q=80&w=1984&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+  url: 'https://images.unsplash.com/photo-1633354931133-27ac1ee5d853?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
 ---
 
 Los actuales tiempos presentan una sobrecarga informativa que se aglutina en las redes sociales y en el WhatsApp, ahora vivimos en medio de una epidemia de datos,  oticias falsas y supuestos influenciadores que incendian las redes sociales con información que no confirman o con suposiciones.
