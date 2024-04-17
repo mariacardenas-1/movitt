@@ -1,6 +1,6 @@
 ---
 title: 'La educación'
-excerpt: 'Al ver y escuchar a mi abuelo se notan como los años merman la movilidad de sEn la década de los ochenta, cuando mis padres eran jóvenes, el mayor anhelo en términos educativos pasaba por graduarse de una Normal Superior para lograr acceder a ser educadores rurales......'
+excerpt: 'En la década de los ochenta, cuando mis padres eran jóvenes, el mayor anhelo en términos educativos pasaba por graduarse de una Normal Superior para lograr acceder a  er educadores rurales, cosa que mis padres intentaron pero no lograron, dos tíos maternos con bastante esfuerzo......'
 coverImage: 'https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
 date: '2024-02-13T05:35:07.322Z'
 author:

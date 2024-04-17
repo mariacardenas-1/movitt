@@ -1,6 +1,6 @@
 ---
 title: 'Las trampas del progreso'
-excerpt: 'Sin duda las casi dos décadas y media del siglo XXI han tenido un avance en términos de tecnología y comunicación, se pasó de usar el teléfono fijo, al  eeper y luego al celular, que se ha convertido en el dispositivo indispensable para cada día.......'
+excerpt: 'Sin duda las casi dos décadas y media del siglo XXI han tenido un avance en términos de tecnología y comunicación, se pasó de usar el teléfono fijo, al  Beeper y luego al celular, que se ha convertido en el dispositivo indispensable para cada día.......'
 coverImage: 'https://images.unsplash.com/photo-1598464824367-4d6b4c22bd2a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
 date: '2024-02-13T08:35:07.322Z'
 author:
